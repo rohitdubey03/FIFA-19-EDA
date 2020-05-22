@@ -6,13 +6,40 @@ The game features the UEFA club competitions for the first time, including the U
 
 This is the last game in the FIFA series to be available on a seventh-generation console, and the last known game to be available for the PlayStation 3 worldwide.
 
+
 # Used Libraries
 1.NumPy (Numerical Python)
+
 2.Pandas
+
 3.Matplotlib
+
 4.Seaborn
+
 5.Plotly
+
 6.Missingno
+
+
+# Content
+Missingo - Missing Data
+
+Data Cleaning
+
+Seaborn - Heatmap
+
+Seaborn - Bar Plot
+
+Plotly - Bar Plot
+
+Word Cloud
+
+Plotly - Donut Chart
+
+Plotly - Box Plot
+
+Plotly - 3D Scatter Plot
+
 
 # Output Visualizations
 ![](graph.png)
