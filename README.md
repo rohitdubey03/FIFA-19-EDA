@@ -17,4 +17,4 @@ This is the last game in the FIFA series to be available on a seventh-generation
 # Output Visualizations
 ![](graph.png)
 
-To Run Notebook, download dataset from https://www.kaggle.com/rohitiscute/inputsoccer and https://www.kaggle.com/karangadiya/fifa19. 
+Datasets used:  https://www.kaggle.com/rohitiscute/inputsoccer and https://www.kaggle.com/karangadiya/fifa19. 
